@@ -23,7 +23,7 @@ Make sure your system has gfortran and f2py. Run the following commands before t
 
 If you have any questions, feel free to open an issue or send me an email: natalya.weber (at) oist.jp.
 
-If you use our code for your research, consider citing our paper:
+If you use our code for your research, consider citing our paper (and [CShapes 2.0 Dataset](https://icr.ethz.ch/publications/cshapes-2/) or the [GADM 4.1 Dataset](https://gadm.org/download_country.html) if you use those datasets as well):
 ```
 @misc{weber_use_2023,
   title = {On the Use of Associative Memory in {{Hopfield}} Networks Designed to Solve Propositional Satisfiability Problems},
